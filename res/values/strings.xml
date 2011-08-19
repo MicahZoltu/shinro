@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, StartupActivity!</string>
+    <string name="app_name">Shinro</string>
+
+<string name="tutorial">Tutorial</string>
+<string name="easy">Easy</string>
+<string name="normal">Normal</string>
+<string name="hard">Hard</string>
+<string name="race">Race</string>
+<string name="insane">Insane</string>
+<string name="reset_board">Reset</string>
+<string name="clear_highlight">Clear Highlighting</string>
+<string name="game_over">Congratulations, you have solved the puzzle!</string>
+</resources>
